@@ -1,0 +1,142 @@
+E:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Form1.resources
+E:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Properties.Resources.resources
+E:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csproj.GenerateResource.Cache
+E:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.exe
+E:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.pdb
+E:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+E:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.exe
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.pdb
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Form1.resources
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Properties.Resources.resources
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csproj.GenerateResource.Cache
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.exe
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.pdb
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Form1.resources
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Properties.Resources.resources
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csproj.GenerateResource.Cache
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddClientFrm.resources
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddClientFrm.resources
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddWorkerFrm.resources
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csprojResolveAssemblyReference.cache
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csprojResolveAssemblyReference.cache
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddWorkerFrm.resources
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddPlayFrm.resources
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddHallFrm.resources
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddShowFrm.resources
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddHallFrm.resources
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddPlayFrm.resources
+G:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddShowFrm.resources
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.exe
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.pdb
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csprojResolveAssemblyReference.cache
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddHallFrm.resources
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddPlayFrm.resources
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddShowFrm.resources
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddWorkerFrm.resources
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Form1.resources
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddClientFrm.resources
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.OrderTicketsFrm.resources
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Properties.Resources.resources
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csproj.GenerateResource.Cache
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\תיקיה חדשה\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+U:\הנדסאות ב תשעח\c#\אפרת לויטן\תיקיה חדשה\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddHallFrm.resources
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddPlayFrm.resources
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddShowFrm.resources
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddWorkerFrm.resources
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Form1.resources
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddClientFrm.resources
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.OrderTicketsFrm.resources
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Properties.Resources.resources
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csproj.GenerateResource.Cache
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.exe
+C:\Users\user\Documents\תרגילים מעניינים\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.pdb
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.exe
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.pdb
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csprojResolveAssemblyReference.cache
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddHallFrm.resources
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddPlayFrm.resources
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddShowFrm.resources
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddWorkerFrm.resources
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Form1.resources
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddClientFrm.resources
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.OrderTicketsFrm.resources
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Properties.Resources.resources
+F:\הנדסאות\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csproj.GenerateResource.Cache
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.OrderTicketsFrm.resources
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.CalcSalaryFrm.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.exe
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.pdb
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csprojResolveAssemblyReference.cache
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddHallFrm.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddPlayFrm.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddShowFrm.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddWorkerFrm.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.CalcSalaryFrm.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Form1.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddClientFrm.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.OrderTicketsFrm.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Properties.Resources.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csproj.GenerateResource.Cache
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.DisplayShowsFrm.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.DiplayPlaysFrm.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.exe
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\bin\Debug\פרויקט סוף סמסטר.pdb
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csprojResolveAssemblyReference.cache
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddHallFrm.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddPlayFrm.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddShowFrm.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddWorkerFrm.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.CalcSalaryFrm.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.DiplayPlaysFrm.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.DisplayShowsFrm.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Form1.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AddClientFrm.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.OrderTicketsFrm.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.Properties.Resources.resources
+F:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.csproj.GenerateResource.Cache
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.baseFrm.resources
+G:\jsa\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AboutFrm.resources
+U:\הנדסאות ב תשעח\c#\יעל רייך\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+U:\הנדסאות ב תשעח\c#\יעל רייך\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+I:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.exe
+I:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\פרויקט סוף סמסטר.pdb
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.AboutFrm.resources
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.baseFrm.resources
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.DiplayPlaysFrm.resources
+F:\פרויקט סוף סמסטר\פרויקט סוף סמסטר\obj\x86\Debug\SemesterFinalProject.DisplayShowsFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.exe
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.pdb
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.csprojResolveAssemblyReference.cache
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.AboutFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.AddHallFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.AddPlayFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.AddShowFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.AddWorkerFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.baseFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.CalcSalaryFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.DiplayPlaysFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.DisplayShowsFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.Form1.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.AddClientFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.OrderTicketsFrm.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.Properties.Resources.resources
+G:\SemesterFinalProject\SemesterFinalProject\obj\x86\Debug\SemesterFinalProject.csproj.GenerateResource.Cache
+G:\SemesterFinalProject\SemesterFinalProject\bin\Debug\SemesterFinalProject.exe
+G:\SemesterFinalProject\SemesterFinalProject\bin\Debug\SemesterFinalProject.pdb
